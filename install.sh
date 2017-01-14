@@ -27,5 +27,6 @@ chmod 777 launch.sh
 RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
-echo -e "${CYAN}Installation Completed! Create a bot with launch(./launch.sh)${NC}"
+echo -e "${CYAN}OK! Pease Enter (./run.sh)${NC}"
+echo -e "${CYAN}Please Join Our Channel : @PlusTM Mr.Nitro:D${NC}"
 exit
